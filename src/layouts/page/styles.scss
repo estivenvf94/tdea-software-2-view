@@ -1,0 +1,13 @@
+@import 'assets/scss/_variables';
+
+.container{
+    width: 600px;
+    height: 400px;
+    padding: 10px;
+    background-color: $c-dr;
+    overflow: hidden;
+    font-family: $f-ppal;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.05);
+    display: flex;
+}
